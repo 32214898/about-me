@@ -48,129 +48,111 @@
 
 # 4. 🚀 프로젝트
 
-아래 이미지는 예시이며, 실제 프로젝트 이미지로 교체하면 더욱 완성도가 올라갑니다.  
-(이미지 없으면 그대로 두셔도 무방!)
+---
+
+## 4-1. 🚗 단주차: 캠퍼스 맞춤형 주차 안내 앱
+> 실시간 주차 안내·혼잡도 시각화 기반 캠퍼스 주차 지원 앱
+
+<p align="center">
+  <img src="./docs/title(1).png" width="100%"/>
+</p>
+
+![Last Commit](https://img.shields.io/github/last-commit/32214898/about-me?style=flat-square&label=Last%20Commit&color=000)
+![Repo Size](https://img.shields.io/github/repo-size/32214898/about-me?style=flat-square&label=Repo%20Size&color=000)
+![Issues](https://img.shields.io/github/issues/32214898/about-me?style=flat-square&label=Issues&color=000)
+![Stars](https://img.shields.io/github/stars/32214898/about-me?style=flat-square&label=Stars&color=000)
 
 ---
 
-## 4-1. 🅳 단주차 (DanParking)
-
-> 캠퍼스 실시간 주차 정보 제공 앱
+### 📸 스크린샷
 
 <p align="center">
-  <img src="https://via.placeholder.com/700x300?text=DanParking+Project+Image" />
+  <img src="./docs/screenshot1.png" width="12%"/>
+  <img src="./docs/screenshot2.png" width="12%"/>
+  <img src="./docs/screenshot3.png" width="12%"/>
+  <img src="./docs/screenshot4.png" width="12%"/>
+  <img src="./docs/screenshot5.png" width="12%"/>
+  <img src="./docs/screenshot6.png" width="12%"/>
+  <img src="./docs/screenshot7.png" width="12%"/>
+  <img src="./docs/screenshot8.png" width="12%"/>
 </p>
-
-- 실시간 주차 가능 구역 및 동선 제공  
-- UI 설계 및 주요 프론트엔드 로직 구현  
-- API 구조 논의 및 기능 테스트 참여  
 
 ---
 
-## 4-2. 📅 DayFrame
+### 🎮 프로젝트 개요
 
-> 사용자가 직접 구성하는 커스텀 플래너 앱
-
-<p align="center">
-  <img src="https://via.placeholder.com/700x300?text=DayFrame+Planner+App" />
-</p>
-
-- 동적 컴포넌트 생성  
-- 캘린더 UX 구현  
-- 반응형 UI 및 레이아웃 설계  
+- 실시간 YOLO 차량 감지
+- 자동 실행 (캠퍼스 반경 위치 기반)
+- 즐겨찾기 / 추천 주차장
+- 혼잡도 기반 알림
 
 ---
 
-## 4-3. 🧭 NAvi (야외방탈출 프로젝트)
+## 4-2. 🏯 NAVI: 모험으로 잇는 한국의 길
+> 한국을 배경으로 한 스토리 기반 퍼즐 어드벤처 게임
 
-> 위치 기반 관광 데이터 + 방탈출 콘텐츠 제작
+👉 [데모 플레이 (Vercel)](https://navi-green-ten.vercel.app/)
 
+![Last Commit](https://img.shields.io/github/last-commit/32214898/about-me?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/32214898/about-me?style=flat-square)
+![Issues](https://img.shields.io/github/issues/32214898/about-me?style=flat-square)
+![Stars](https://img.shields.io/github/stars/32214898/about-me?style=flat-square)
+
+---
+
+### 📸 스크린샷
 <p align="center">
-  <img src="https://via.placeholder.com/700x300?text=NAvi+Outdoor+Escape+Project" />
+  <img src="./docs/title.png" width="150"/>
+  <img src="./docs/cutscene.png" width="150"/>
+  <img src="./docs/puzzle.png" width="150"/>
+  <img src="./docs/dialog.png" width="150"/>
+  <img src="./docs/move.png" width="150"/>
 </p>
 
-- 실제 관광지를 기반으로 한 스토리 퍼즐 설계  
-- Phaser 기반 맵 이동·상호작용·퍼즐 시스템 구현  
-- GPS 기반 흐름 (장소 이동 → 힌트 해제 → 스테이지 진행)  
-- 모바일 플레이 최적화  
-- UI 프로토타입 및 인터랙션 화면 제작  
+---
+
+### 🎮 프로젝트 개요
+
+- 한국 지역 기반 퍼즐 + 탐험  
+- NPC 대화 / 아이템 수집 / 스토리 라인  
+- 모바일·PC 웹 플레이 지원  
+- 확장형 시나리오 구조
+
+---
+
+## 4-3. 🧩 DayFrame: 멀티플랫폼 위젯 애플리케이션
+> 일상 위젯을 자유롭게 배치하는 커스터마이징 앱
+
+<p align="center">
+  <img src="./docs/title.png" width="100%"/>
+</p>
+
+![Last Commit](https://img.shields.io/github/last-commit/32214898/about-me?style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/32214898/about-me?style=flat-square)
+![Issues](https://img.shields.io/github/issues/32214898/about-me?style=flat-square)
+![Stars](https://img.shields.io/github/stars/32214898/about-me?style=flat-square)
+
+---
+
+### 🎮 기능 소개
+
+- TODO / 습관 / 메모 / 타이머 위젯  
+- 여러 보드 생성  
+- PC·Android·iOS 지원  
+- 모바일 배경화면 위젯
 
 ---
 
 # 5. 🏆 수상 & 활동
-
-- 🥉 **장려상 — 2025 관광데이터공모전**  
-- 다양한 개인 프로젝트 개발 및 UI 설계 경험  
+- 🥉 **2025 관광데이터공모전 장려상**  
+- 다양한 개인 프로젝트 UI/UX 설계·구현  
 
 ---
 
 # 6. 🎯 학습 목표
-
-- React 기반 프론트엔드 심화  
-- API 연동, 디자인 시스템, UI 성능 개선  
-- “생활 속 불편함을 해결하는 서비스” 제작  
-
----
-
----
-
-# 🌎 **7. English Version**
-
-## 7-1. Introduction  
-I am a senior majoring in Computer Engineering, aiming to become a **frontend developer**.  
-I enjoy creating moments where users naturally feel, *“This is convenient.”*
-
-I received the **Encouragement Prize** at the 2025 Tourism Data Competition with the project **NAvi**,  
-and I independently designed and built **DanParking** and **DayFrame**.
-
-I focus on **React-based development**, UI/UX improvement, and interaction-driven frontend architecture.
-
----
-
-## 7-2. Basic Information
-- **Name:** Hyun Sumin  
-- **Major:** Computer Engineering  
-- **Email:** nobin715@naver.com  
-- **GitHub:** https://github.com/32214898  
-
----
-
-## 7-3. Tech Stack
-
-### Languages
-- JavaScript  
-- TypeScript  
-- Python  
-
-### Frontend
-- React  
-- HTML/CSS  
-
----
-
-## 7-4. Projects
-
-### DanParking
-A real-time campus parking information app.  
-(Image placeholder—replace with real screenshot)
-
-### DayFrame
-A customizable planner app supporting dynamic components and calendar UX.
-
-### NAvi
-A location-based outdoor escape-room game using tourism data.
-
----
-
-## 7-5. Awards & Activities
-- **Encouragement Prize**, 2025 Tourism Data Competition  
-- Independent personal development projects  
-
----
-
-## 7-6. Learning Goals
-- Advanced React frontend development  
-- API integration, design systems, and UI performance  
-- Building services that solve practical, real-world inconvenience  
+- React 심화  
+- UI 성능 개선  
+- API 연동 / 디자인 시스템  
+- 실생활 문제 해결 서비스 제작  
 
 ---
