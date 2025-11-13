@@ -124,7 +124,7 @@
 > 일상 위젯을 자유롭게 배치하는 커스터마이징 앱
 
 <p align="center">
-  <img src="./docs/title.png" width="100%"/>
+  <img src="./docs/title(2).png" width="100%"/>
 </p>
 
 ![Last Commit](https://img.shields.io/github/last-commit/32214898/about-me?style=flat-square)
